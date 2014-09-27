@@ -93,7 +93,7 @@ NS_CC_EXT_END
 	
 NS_CC_BEGIN
 
-public ref class CCEditBoxParam sealed
+ref class CCEditBoxParam sealed
 {
 public:
 	void SetPlaceHolder(Platform::String^ holder) {strPlaceHolder = holder;}
